@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    quy hoang -- <dev> -- <@hxqpro>
 
 # THANKS
 
