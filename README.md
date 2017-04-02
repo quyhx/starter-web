@@ -19,3 +19,5 @@ This is a simple web project, deployment can be on my any web server or even loc
 Please fork this repo and issue pull requests to review.
 
 ### Copyright
+
+2017 Training. All rights reserved.
